@@ -1480,3 +1480,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-08.16.26:856][326]PIE: Server logged in
 [2024.01.24-08.16.26:858][326]PIE: Play in editor total start time 0.094 seconds.
 [2024.01.24-08.16.28:503][329]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.24-08.17.01:967][620]LogDerivedDataCache: C:/Users/dhruv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.363 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3306 files in 4600 folders with total size 2251 MiB.
+[2024.01.24-08.17.46:247][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-08.17.46:247][265]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.24-08.17.46:247][265]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-08.17.46:248][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-08.17.46:248][265]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.24-08.17.46:252][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-08.17.46:256][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-08.17.46:263][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-08.17.46:263][265]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.24-08.17.46:263][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.24-08.17.46:265][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.24-08.17.46:271][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-08.17.46:274][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.24-08.17.46:432][266]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.01.24-08.17.47:907][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-08.17.47:981][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
