@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset"
+				"W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset",
+				"W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Content/UI/WB_HUD.uasset",
+				"W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
