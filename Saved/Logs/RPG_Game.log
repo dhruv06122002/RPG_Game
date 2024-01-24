@@ -1497,3 +1497,101 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-08.17.46:432][266]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2024.01.24-08.17.47:907][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.24-08.17.47:981][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-08.22.58:628][800]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.24-08.22.58:661][800]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.24-08.25.27:906][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-08.25.31:595][355]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.24-08.25.31:605][355]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.24-08.25.31:615][355]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.24-08.25.31:634][356]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.24-08.25.40:649][753]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PlayerStats
+[2024.01.24-08.25.40:659][753]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.24-08.25.41:901][806]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2024.01.24-08.25.41:902][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-08.25.41:902][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-08.25.41:933][806]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.01.24-08.25.43:150][806]LogSlate: Took 0.007334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.24-08.25.45:646][869]LogSlate: Window 'BP_PlayerStats' being destroyed
+[2024.01.24-08.27.15:698][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.24-08.27.15:701][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2024.01.24-08.27.15:701][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerStats] ([2] browsable assets)...
+[2024.01.24-08.27.15:701][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerStats]
+[2024.01.24-08.27.15:704][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_PlayerStats_Auto1
+[2024.01.24-08.27.15:704][165]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BP_PlayerStats_Auto13CA9D38644B4FA40A7A9289838BB2124.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Saved/Autosaves/Game/Blueprints/BP_PlayerStats_Auto1.uasset'
+[2024.01.24-08.27.15:705][165]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.01.24-08.28.05:393][933]LogContentBrowser: Attempting asset rename: BP_PlayerStats -> BPC_PlayerStats
+[2024.01.24-08.28.05:432][933]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.SKEL_BPC_PlayerStats_C' ref from Metadata '/Game/Blueprints/BP_PlayerStats.PackageMetaData'
+[2024.01.24-08.28.05:432][933]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats_C' ref from Metadata '/Game/Blueprints/BP_PlayerStats.PackageMetaData'
+[2024.01.24-08.28.05:433][933]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_PlayerStats.PackageMetaData'
+[2024.01.24-08.28.05:433][933]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_PlayerStats.PackageMetaData'
+[2024.01.24-08.28.05:437][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-08.28.05:480][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.01.24-08.28.05:483][933]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.01.24-08.28.05:484][933]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BPC_PlayerStats2FACCCC84532DDDFC663DEB03B5ED282.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.01.24-08.28.05:501][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.24 sec)
+[2024.01.24-08.28.05:531][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.24-08.28.05:552][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.24-08.28.05:570][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.24-08.28.05:571][933]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.01.24-08.28.05:571][933]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.01.24-08.28.33:521][131]LogSlate: Took 0.007992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.24-08.37.19:610][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.01.24-08.37.19:612][176]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.01.24-08.37.19:612][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.01.24-08.37.19:612][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.01.24-08.37.19:619][176]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto2
+[2024.01.24-08.37.19:619][176]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BPC_PlayerStats_Auto225100849408FC31F4FD1FA9F591794A7.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto2.uasset'
+[2024.01.24-08.37.19:620][176]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.01.24-08.43.21:422][750]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.01.24-08.43.21:422][750]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.01.24-08.44.06:181][543]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.24-08.45.54:185][ 96]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.01.24-08.45.54:211][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.01.24-08.46.30:709][179]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.01.24-08.46.30:739][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.24-08.46.31:486][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-08.46.31:554][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.01.24-08.46.31:562][256]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.01.24-08.46.31:562][256]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BPC_PlayerStatsC59ABDC342C339DA30642D8808FE78BA.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.01.24-08.46.31:575][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.33 sec)
+[2024.01.24-08.46.31:577][256]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.01.24-08.46.31:577][256]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.01.24-08.47.34:725][575]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.01.24-08.47.34:751][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.24-08.48.00:916][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.01.24-08.48.00:919][601]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2024.01.24-08.48.00:919][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.01.24-08.48.00:920][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.01.24-08.48.00:926][601]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto3
+[2024.01.24-08.48.00:926][601]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BPC_PlayerStats_Auto350A97FC74B9D1FB913B709972D9EBED6.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto3.uasset'
+[2024.01.24-08.48.00:927][601]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.01.24-08.50.32:131][823]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.01.24-08.50.32:161][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.01.24-08.50.32:659][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-08.50.32:735][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.01.24-08.50.32:747][872]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.01.24-08.50.32:747][872]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BPC_PlayerStats6FEE757F4D9AC9A77F79C6AF7CF4E434.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.01.24-08.50.32:759][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 2.43 sec)
+[2024.01.24-08.50.32:762][872]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.01.24-08.50.32:762][872]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.01.24-08.50.36:371][300]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.01.24-08.50.36:397][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.01.24-08.50.36:949][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-08.50.36:998][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.01.24-08.50.37:007][359]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.01.24-08.50.37:008][359]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BPC_PlayerStats8AA3B39747E82E0BA2CA29A9AE96A9A5.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.01.24-08.50.37:018][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.50 sec)
+[2024.01.24-08.50.37:021][359]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.01.24-08.50.37:021][359]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.01.24-08.56.20:593][643]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.01.24-08.56.20:622][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.01.24-08.56.21:238][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-08.56.21:315][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.01.24-08.56.21:332][707]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.01.24-08.56.21:334][707]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BPC_PlayerStats990DC79E4B002268F2826692BBB0FE36.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.01.24-08.56.21:344][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.61 sec)
+[2024.01.24-08.56.21:346][707]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.01.24-08.56.21:346][707]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.01.24-09.00.43:559][151]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.01.24-09.01.47:268][408]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.01.24-09.01.47:316][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
