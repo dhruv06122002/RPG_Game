@@ -1,2 +1,3 @@
-2024/01/26-22:32:41.596 5670 Creating DB W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/01/26-22:32:41.631 5670 Reusing MANIFEST W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/01/27-11:28:36.355 138 Reusing MANIFEST W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/01/27-11:28:36.364 138 Recovering log #3
+2024/01/27-11:28:36.365 138 Reusing old log W:/Unreal Engine/Projects/Github_Projects/RPG_Game/Saved/webcache_4430\Local Storage\leveldb/000003.log 
