@@ -3613,3 +3613,172 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.01.28-17.12.14:292][340]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next.Anim_Notify_Sword_Combo_Next
 [2024.01.28-17.12.14:293][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.28-17.12.14:293][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.18.28:028][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.01.28-17.18.28:030][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.01.28-17.18.28:031][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next] ([2] browsable assets)...
+[2024.01.28-17.18.28:031][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next]
+[2024.01.28-17.18.28:034][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next_Auto3
+[2024.01.28-17.18.28:034][871]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Anim_Notify_Sword_Combo_Next_Aut3605437C462593EFD02FBEABDE447533.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Saved/Autosaves/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next_Auto3.uasset'
+[2024.01.28-17.18.28:035][871]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.01.28-17.19.51:568][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.28-17.19.51:576][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-17.19.51:630][268]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.19.51:630][268]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Anim_Notify_Sword_Combo_NextC1F0090945D0065B9876FEA5DEA382D9.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next.uasset'
+[2024.01.28-17.19.51:644][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.45 sec)
+[2024.01.28-17.19.51:645][268]AssetCheck: New page: Asset Save: Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.19.51:645][268]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next.Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.28.28:698][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.01.28-17.28.28:703][202]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2024.01.28-17.28.28:703][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next] ([2] browsable assets)...
+[2024.01.28-17.28.28:704][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next]
+[2024.01.28-17.28.28:708][202]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next_Auto4
+[2024.01.28-17.28.28:709][202]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Anim_Notify_Sword_Combo_Next_AutADBD63A74B93E91F993E92978EEB4197.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Saved/Autosaves/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next_Auto4.uasset'
+[2024.01.28-17.28.28:709][202]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.01.28-17.29.40:784][550]BlueprintLog: New page: Compile Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.29.40:811][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.01.28-17.29.47:831][287]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.28-17.29.47:832][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-17.29.47:832][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.29.48:335][287]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.29.48:336][287]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_22:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2024.01.28-17.30.03:313][751]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.30.03:313][751]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2024.01.28-17.30.03:317][751]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.30.03:317][751]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2024.01.28-17.30.03:325][751]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.30.03:325][751]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_22:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2024.01.28-17.30.26:839][977]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=24B2W1 (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.28-17.30.27:061][977]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4588
+[2024.01.28-17.30.27:399][978]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f84d5066-2b61-4f94-83e1-e4e9c735bea2}, Name=24B2W1 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.62
+[2024.01.28-17.30.27:399][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.28-17.30.27:402][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.28-17.33.39:557][ 75]BlueprintLog: New page: Compile Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.33.39:559][ 75]LogBlueprint: Error: [AssetLog] W:\Unreal Engine\Projects\Github_Projects\RPG_Game\Content\Characters\RPG_Character\Animations\SwordAttacks\Anim_Notify_Sword_Combo_Next.uasset: [Compiler] The property associated with  BPC Attack System  could not be found in '/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next.Anim_Notify_Sword_Combo_Next_C'
+[2024.01.28-17.33.39:588][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.01.28-17.33.40:509][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-17.33.40:590][175]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.33.40:591][175]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Anim_Notify_Sword_Combo_Next2349ACA64C34F7633064A6819A84E323.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next.uasset'
+[2024.01.28-17.33.40:603][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.54 sec)
+[2024.01.28-17.33.40:606][175]AssetCheck: New page: Asset Save: Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.33.40:606][175]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next.Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.34.14:907][738]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.28-17.34.15:103][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.28-17.34.15:119][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.34.15:119][738]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_1
+[2024.01.28-17.34.15:124][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.34.15:124][738]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_1
+[2024.01.28-17.34.15:128][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.34.15:130][738]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_22:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_1
+[2024.01.28-17.34.15:134][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.34.15:134][738]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.ABP_RPGCharacter_C_0
+[2024.01.28-17.34.15:253][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.34.15:253][738]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_1
+[2024.01.28-17.34.15:258][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.34.15:258][738]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_22:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_1
+[2024.01.28-17.34.15:263][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.01.28-17.34.15:263][738]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Engine/Transient.World_7:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.ABP_RPGCharacter_C_0
+[2024.01.28-17.34.15:652][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-17.34.15:825][739]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.28-17.34.15:826][739]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BP_ThirdPersonCharacter2928D026427B768230012DB4F2EC331D.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.28-17.34.15:841][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 2.73 sec)
+[2024.01.28-17.34.15:844][739]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.28-17.34.15:844][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.28-17.34.36:294][529]BlueprintLog: New page: Compile Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.34.36:328][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.01.28-17.34.39:908][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.01.28-17.34.39:913][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-17.34.39:988][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_AttackSystem" FILE="../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_AttackSystem.uasset" SILENT=true
+[2024.01.28-17.34.40:002][930]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_AttackSystem
+[2024.01.28-17.34.40:003][930]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/BPC_AttackSystem97D99A3E4048D45608A1C893EF3F9C09.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Blueprints/BPC_AttackSystem.uasset'
+[2024.01.28-17.34.40:010][930]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.34.40:010][930]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Anim_Notify_Sword_Combo_Next2860DB1F4CE899D89DD19EA8F9B0C9A2.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next.uasset'
+[2024.01.28-17.34.40:022][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 2.84 sec)
+[2024.01.28-17.34.40:025][930]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-17.34.40:025][930]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_AttackSystem.BPC_AttackSystem
+[2024.01.28-17.34.40:025][930]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_Next.Anim_Notify_Sword_Combo_Next
+[2024.01.28-17.37.59:562][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End.Anim_Notify_Sword_Combo_End
+[2024.01.28-17.37.59:562][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-17.37.59:562][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.38.00:965][435]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.38.00:965][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.38.01:001][435]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End.Anim_Notify_Sword_Combo_End
+[2024.01.28-17.38.01:001][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-17.38.01:002][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.39.14:244][643]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.39.14:244][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.40.33:071][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.01.28-17.40.33:075][143]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.01.28-17.40.33:075][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End] ([2] browsable assets)...
+[2024.01.28-17.40.33:075][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End]
+[2024.01.28-17.40.33:080][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End_Auto5
+[2024.01.28-17.40.33:080][143]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Anim_Notify_Sword_Combo_End_Auto79D3A77E451D6665440FF4883C3F2E6D.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Saved/Autosaves/Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End_Auto5.uasset'
+[2024.01.28-17.40.33:082][143]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.28-17.41.37:162][705]BlueprintLog: New page: Compile Anim_Notify_Sword_Combo_End
+[2024.01.28-17.41.37:192][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.01.28-17.41.37:814][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-17.41.37:885][772]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End
+[2024.01.28-17.41.37:886][772]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Anim_Notify_Sword_Combo_EndB119EFA54A522650D163B7825C00EF15.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End.uasset'
+[2024.01.28-17.41.37:897][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.92 sec)
+[2024.01.28-17.41.37:900][772]AssetCheck: New page: Asset Save: Anim_Notify_Sword_Combo_End
+[2024.01.28-17.41.37:901][772]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/RPG_Character/Animations/SwordAttacks/Anim_Notify_Sword_Combo_End.Anim_Notify_Sword_Combo_End
+[2024.01.28-17.42.29:512][270]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack1.Attack1
+[2024.01.28-17.42.29:574][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-17.42.29:574][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.42.29:644][270]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.42.29:644][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.42.40:119][470]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack1_Montage.Attack1_Montage
+[2024.01.28-17.42.40:231][470]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.42.40:231][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.47.56:412][636]LogViewport: Scene viewport resized to 1141x563, mode Windowed.
+[2024.01.28-17.47.56:446][638]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2024.01.28-17.47.56:466][639]LogViewport: Scene viewport resized to 1141x564, mode Windowed.
+[2024.01.28-17.47.56:487][640]LogViewport: Scene viewport resized to 1141x565, mode Windowed.
+[2024.01.28-17.48.23:752][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.01.28-17.48.29:266][446]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.28-17.48.29:426][446]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.48.29:426][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.48.29:444][446]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-17.48.29:444][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-17.48.29:470][446]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack1_Montage.Attack1_Montage
+	Asset Type: AnimMontage
+[2024.01.28-17.48.30:011][446]LogAnimation: Warning: Invalid animation skeleton
+[2024.01.28-17.48.30:106][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.28-17.48.30:140][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.28-17.48.30:163][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.28-17.48.36:464][976]LogContentBrowser: Deferred new asset file creation: Attack1_Montage
+[2024.01.28-17.48.36:483][976]LogContentBrowser: Creating deferred item: Attack1_Montage
+[2024.01.28-17.48.36:501][977]LogContentBrowser: Renaming the item being created (Deferred Item: Attack1_Montage).
+[2024.01.28-17.48.37:728][ 90]LogContentBrowser: Attempting asset rename: Attack1_Montage -> Attack1_Montage
+[2024.01.28-17.48.37:729][ 90]LogContentBrowser: End creating deferred item Attack1_Montage
+[2024.01.28-17.48.38:230][129]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack1_Montage.Attack1_Montage
+[2024.01.28-17.48.38:232][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-17.48.38:232][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.48.38:250][129]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.28-17.48.38:634][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-17.48.38:634][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-17.48.38:899][129]LogViewport: Scene viewport resized to 1141x565, mode Windowed.
+[2024.01.28-17.50.22:535][734]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.28-17.55.53:866][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-17.55.53:966][690]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack1_Montage
+[2024.01.28-17.55.53:966][690]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Attack1_Montage352479F5459D8AD15123779E3343C5DD.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Characters/RPG_Character/Animations/SwordAttacks/Attack1_Montage.uasset'
+[2024.01.28-17.55.53:990][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 3.04 sec)
+[2024.01.28-17.55.53:992][690]AssetCheck: New page: Asset Save: Attack1_Montage
+[2024.01.28-17.55.53:992][690]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack1_Montage.Attack1_Montage
+[2024.01.28-17.56.03:825][901]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage.Attack2_Montage
+[2024.01.28-18.00.51:742][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2024.01.28-18.00.51:748][475]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.01.28-18.00.51:748][475]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage] ([1] browsable assets)...
+[2024.01.28-18.00.51:787][475]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage.Attack2_Montage]
+[2024.01.28-18.00.51:787][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage]
+[2024.01.28-18.00.51:791][475]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage_Auto6
+[2024.01.28-18.00.51:791][475]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Attack2_Montage_Auto645FBECBB41FAA260F7FDCEB4D6973308.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Saved/Autosaves/Game/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage_Auto6.uasset'
+[2024.01.28-18.00.51:791][475]LogFileHelpers: Auto-saving content packages took 0.044
+[2024.01.28-18.02.42:781][826]LogDerivedDataCache: C:/Users/dhruv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.327 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4649 files in 6246 folders with total size 3137 MiB.
+[2024.01.28-18.03.07:977][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-18.03.08:043][ 48]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage
+[2024.01.28-18.03.08:044][ 48]LogSavePackage: Moving '../../../../../Projects/Github_Projects/RPG_Game/Saved/Attack2_Montage7DF5BD1F484D64FA243B7DB5517C8CD6.tmp' to '../../../../../Projects/Github_Projects/RPG_Game/Content/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage.uasset'
+[2024.01.28-18.03.08:057][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.12 sec)
+[2024.01.28-18.03.08:059][ 48]AssetCheck: New page: Asset Save: Attack2_Montage
+[2024.01.28-18.03.08:059][ 48]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Characters/RPG_Character/Animations/SwordAttacks/Attack2_Montage.Attack2_Montage
+[2024.01.28-18.12.27:251][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
